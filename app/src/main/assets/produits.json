@@ -1,0 +1,53 @@
+
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "Wireless Headphones",
+      "categorie": "Electronics",
+      "prix": 129.9,
+      "description": "Wireless headphones with excellent sound quality.",
+      "image": "headphones"
+    },
+    {
+      "id": 2,
+      "nom": "Smart Watch",
+      "categorie": "Accessories",
+      "prix": 189.9,
+      "description": "Smart watch with activity tracking.",
+      "image": "watch"
+    },
+    {
+      "id": 3,
+      "nom": "Urban Backpack",
+      "categorie": "Bags",
+      "prix": 89.9,
+      "description": "Modern and practical backpack.",
+      "image": "backpack"
+    },
+    {
+      "id": 4,
+      "nom": "Bluetooth Speaker",
+      "categorie": "Electronics",
+      "prix": 75.5,
+      "description": "Portable Bluetooth speaker.",
+      "image": "speaker"
+    },
+    {
+      "id": 5,
+      "nom": "Running Shoes",
+      "categorie": "Fashion",
+      "prix": 159.0,
+      "description": "Lightweight sports shoes.",
+      "image": "shoes"
+    },
+    {
+      "id": 6,
+      "nom": "Desk Lamp",
+      "categorie": "Home",
+      "prix": 49.9,
+      "description": "Minimalist desk lamp.",
+      "image": "lamp"
+    }
+  ]
+}
